@@ -1,0 +1,45 @@
+body {
+    font-family: 'Oxygen', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+#company-name {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+#system-name {
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+#main-content {
+    margin-top: 30px;
+}
+#register-form {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.form-label {
+    font-weight: 500;
+}
+.form-text {
+    font-size: 0.85rem;
+    color: #dc3545;
+}
+#employee-table {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.table thead th {
+    font-weight: 700;
+}
